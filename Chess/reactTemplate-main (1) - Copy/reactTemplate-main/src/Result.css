@@ -1,0 +1,33 @@
+.result {
+    margin-bottom: 30px;
+    font-size: 24px;
+  }
+  
+  .final-result {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .final-result.win {
+    color: #4caf50;
+  }
+  
+  .final-result.lose {
+    color: #f44336;
+  }
+  
+  .final-result.draw {
+    color: #ff9800;
+  }
+  
+  .player-choice {
+    color: #007bff;
+    font-weight: bold;
+  }
+  
+  .computer-choice {
+    color: #f44336;
+    font-weight: bold;
+  }
+  

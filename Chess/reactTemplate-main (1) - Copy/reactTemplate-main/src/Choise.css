@@ -1,0 +1,22 @@
+.choices {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .choice-button {
+    padding: 20px 40px;
+    font-size: 44px;
+    margin: 0 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #81bdfd;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .choice-button:hover {
+    background-color: #0056b3;
+  }
+  
